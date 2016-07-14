@@ -1,0 +1,8 @@
+vks\vpn\NavigatorUI.class
+vks\vpn\views\LoginView.class
+vks\vpn\views\SmsSenderView.class
+vks\vpn\views\User.class
+vks\vpn\backend\Authenticator.class
+vks\vpn\backend\SmsUtils.class
+vks\vpn\NavigatorUI$MyUIServlet.class
+vks\vpn\backend\MmservSqlConnection.class
