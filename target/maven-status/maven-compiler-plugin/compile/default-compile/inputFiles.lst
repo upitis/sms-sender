@@ -1,7 +1,11 @@
 C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\views\SmsSenderView.java
 C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\backend\Authenticator.java
-C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\backend\MmservSqlConnection.java
+C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\backend\ContactUtils.java
+C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\backend\Contact.java
 C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\backend\SmsUtils.java
+C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\backend\DbExceptions.java
+C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\backend\ScPhonesDb.java
 C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\NavigatorUI.java
+C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\backend\MmservDb.java
 C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\views\User.java
 C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\views\LoginView.java

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="MySQL - scphones_db@mysql" uuid="58c6bda0-faf5-479a-87a5-a9389cec152a">
+    <database-info product="MySQL" version="5.7.12" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.35 ( Revision: 5fb9c5849535c13917c2cf9baaece6ef9693ef27 )">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact"/>
+    <database-model serializer="dbm" rdbms="MYSQL" format-version="2.6">
+      <schema id="1" name="scphones_db">
+        <visible>1</visible>
+      </schema>
+      <table id="2" parent="1" name="Лист1"/>
+      <table id="3" parent="1" name="Contacts"/>
+      <column id="4" parent="2" name="A">
+        <data-type>varchar(64)|0</data-type>
+      </column>
+      <column id="5" parent="2" name="B">
+        <data-type>varchar(128)|0</data-type>
+      </column>
+      <column id="6" parent="2" name="C">
+        <data-type>varchar(41)|0</data-type>
+      </column>
+      <column id="7" parent="2" name="D">
+        <data-type>varchar(87)|0</data-type>
+      </column>
+      <column id="8" parent="2" name="E">
+        <data-type>varchar(40)|0</data-type>
+      </column>
+      <column id="9" parent="3" name="id">
+        <mandatory>1</mandatory>
+        <data-type>int(10)|0</data-type>
+        <sequence-identity>1</sequence-identity>
+      </column>
+      <column id="10" parent="3" name="name">
+        <mandatory>1</mandatory>
+        <data-type>varchar(200)|0</data-type>
+      </column>
+      <column id="11" parent="3" name="company">
+        <mandatory>1</mandatory>
+        <data-type>varchar(200)|0</data-type>
+      </column>
+      <column id="12" parent="3" name="department">
+        <mandatory>1</mandatory>
+        <data-type>varchar(300)|0</data-type>
+      </column>
+      <column id="13" parent="3" name="title">
+        <mandatory>1</mandatory>
+        <data-type>varchar(200)|0</data-type>
+      </column>
+      <column id="14" parent="3" name="phone">
+        <mandatory>1</mandatory>
+        <data-type>varchar(200)|0</data-type>
+      </column>
+      <key id="15" parent="3" name="PRIMARY">
+        <columns>id</columns>
+        <primary>1</primary>
+      </key>
+    </database-model>
+  </data-source>
+</component>

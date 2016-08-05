@@ -1,22 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
-    <v-vertical-layout margin spacing width = "800px">
-        <v-label id="headLabel">
-            Форма отправки СМС сообщений через сервер mmserv.sc.vpn
+    <v-vertical-layout margin spacing width = "100%">
+        <v-label id="headLabel" content-mode = "html">
+            <h1>Форма отправки СМС сообщений через сервер mmserv.sc.vpn</h1>
         </v-label>
-        <v-label>
-            &nbsp;
+        <v-label content-mode = "html">
+            <hr>
         </v-label>
         <v-text-field id="phonesField" width = "100%" caption="Номера для отправки в формате: +7XXXXXXXXXX;+7XXXXXXXXXX;+7XXXXXXXXXX">
 
         </v-text-field>
 
-        <v-text-area id = "messageArea" caption="Тескт СМС (не более 900 символов)" rows = "10" width = "100%">
+        <v-text-area id = "messageArea" caption="Текст СМС (не более 900 символов)" rows = "7" width = "100%">
 
         </v-text-area>
 
         <v-button id = "sendBtn" caption="Отправить">
 
         </v-button>
+        <v-label content-mode = "html">
+            <hr>
+        </v-label>
+
+        <v-grid id="contactsGrid" width="100%" height="600px"></v-grid>
     </v-vertical-layout>
 </html>
