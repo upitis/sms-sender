@@ -7,64 +7,51 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c697f691-e48e-41be-a8e7-5f28cbc96f65" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/vks/vpn/backend/DbExceptions.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/vks/vpn/backend/ScPhonesDb.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E9025FBE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E9029143" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E9029147" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E9029161" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E90292DC" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E90293B2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E9029441" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E9029530" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A235" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A2FB" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A4E7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A647" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A68C" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A7A5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A7B8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A862" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/vks/vpn/backend/MmservSqlConnection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E9025FBE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E9029143" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E9029147" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E9029161" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E90292DC" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E90293B2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E9029441" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E9029530" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A235" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A2FB" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A4E7" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A647" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A68C" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A7A5" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A7B8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-00000155E902A862" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/backend/MmservSqlConnection.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire/surefire1241075747966425824tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire/surefire2783312713400278408tmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire/surefirebooter5656423110874064885.jar" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/vks/vpn/backend/MmservSqlConnection.java" afterPath="$PROJECT_DIR$/src/main/java/vks/vpn/backend/MmservDb.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/vks/vpn/backend/SmsUtils.class" afterPath="$PROJECT_DIR$/target/classes/vks/vpn/backend/SmsUtils.class" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFBFD4B" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2BF4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2C35" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2C93" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2D5C" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2E2B" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2EA8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2F96" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC3C6A" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC3D28" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC3EDD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC4066" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC40AF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC41C8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC41D6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC424B" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFBFD4B" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2BF4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2C35" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2C93" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2D5C" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2E2B" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2EA8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC2F96" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC3C6A" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC3D28" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC3EDD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC4066" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC40AF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC41C8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC41D6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-000001565AFC424B" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire/surefire2494868945553249746tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire/surefire4174557735487761383tmp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/surefire/surefirebooter1954179416920655695.jar" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/vks/vpn/views/SmsSenderView$1.class" afterPath="$PROJECT_DIR$/target/classes/vks/vpn/views/SmsSenderView$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/vks/vpn/views/SmsSenderView.class" afterPath="$PROJECT_DIR$/target/classes/vks/vpn/views/SmsSenderView.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/sms-1.0.war" afterPath="$PROJECT_DIR$/target/sms-1.0.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/backend/SmsUtils.class" afterPath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/backend/SmsUtils.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/views/SmsSenderView$1.class" afterPath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/views/SmsSenderView$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/views/SmsSenderView.class" afterPath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/views/SmsSenderView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/vks/vpn/backend/SmsUtils.java" afterPath="$PROJECT_DIR$/src/main/java/vks/vpn/backend/SmsUtils.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.html" afterPath="$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.java" afterPath="$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/mytheme.scss" afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/mytheme.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/styles.css" afterPath="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/vks/vpn/views/SmsSenderView.html" afterPath="$PROJECT_DIR$/target/classes/vks/vpn/views/SmsSenderView.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/sms-1.0/VAADIN/themes/mytheme/mytheme.scss" afterPath="$PROJECT_DIR$/target/sms-1.0/VAADIN/themes/mytheme/mytheme.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/sms-1.0/VAADIN/themes/mytheme/styles.css" afterPath="$PROJECT_DIR$/target/sms-1.0/VAADIN/themes/mytheme/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/views/SmsSenderView.html" afterPath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/views/SmsSenderView.html" />
     </list>
     <ignored path="sms_sender.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -95,46 +82,86 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SmsSenderView.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SmsSenderView.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="98" column="19" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AbstractField.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/ui/AbstractField.java">
+      <file leaf-file-name="ListenerMethod.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/event/ListenerMethod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6477">
-              <caret line="439" column="0" selection-start-line="439" selection-start-column="0" selection-end-line="439" selection-end-column="0" />
-              <folding>
-                <element signature="e#13963#13964#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SmsSenderView.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="7" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="7" />
+            <state relative-caret-position="296">
+              <caret line="527" column="0" selection-start-line="527" selection-start-column="0" selection-end-line="527" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MmservDb.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ServerRpcManager.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/server/ServerRpcManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="711">
+              <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerRpcHandler.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/server/communication/ServerRpcHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1231">
+              <caret line="410" column="0" selection-start-line="410" selection-start-column="0" selection-end-line="410" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MmservDb.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/MmservDb.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="323">
               <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Authenticator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/Authenticator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="imports" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginView.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/LoginView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NavigatorUI.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/NavigatorUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -144,17 +171,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DbExceptions.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/DbExceptions.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,31 +186,6 @@
               <folding>
                 <marker date="1470400992209" expanded="true" signature="295:349" ph="INSERT INTO outbox... " />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContactUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/ContactUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-              <folding>
-                <marker date="1470396609601" expanded="true" signature="260:282" ph="SELECT * FRO... Contacts" />
-                <marker date="1470396609601" expanded="true" signature="346:506" ph="UPDATE Conta... " />
-                <marker date="1470396609601" expanded="true" signature="353:361" ph="SELECT * FRO... Contacts" />
-                <marker date="1470396609601" expanded="true" signature="569:645" ph="INSERT INTO Contacts... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Contact.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/Contact.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -233,9 +227,9 @@
         <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/MmservSqlConnection.java" />
         <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/ScPhonesDb.java" />
         <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/ContactUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.java" />
         <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/SmsUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/MmservDb.java" />
+        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.java" />
       </list>
     </option>
   </component>
@@ -316,7 +310,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="1389" />
+    <option name="width" value="1309" />
     <option name="height" value="1407" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -345,6 +339,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -469,8 +465,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -992,41 +986,44 @@
       <workItem from="1470303267394" duration="39000" />
       <workItem from="1470384952328" duration="12819000" />
       <workItem from="1470404746904" duration="827000" />
+      <workItem from="1470893933543" duration="9000" />
+      <workItem from="1471011001367" duration="219000" />
+      <workItem from="1473068553508" duration="1075000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60491000" />
+    <option name="totallyTimeSpent" value="61794000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1389" height="1407" extended-state="0" />
+    <frame x="-7" y="0" width="1309" height="1407" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27088037" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14971977" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3288854" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24303988" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16813451" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.107317075" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2495935" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39952904" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21978022" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1093,7 +1090,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="26" />
+      <option name="time" value="27" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1230,24 +1227,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/Authenticator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/LoginView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1259,34 +1242,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/NavigatorUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Лист1">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
     <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Contacts">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1346,84 +1322,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/server/communication/ServerRpcHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="410" column="0" selection-start-line="410" selection-start-column="0" selection-end-line="410" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/server/ServerRpcManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/event/ListenerMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="524" column="0" selection-start-line="524" selection-start-column="0" selection-end-line="524" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Contacts">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Contacts">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
         </state>
       </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Contacts">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Contacts">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
         </state>
       </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Contacts">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Contacts">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
         </state>
       </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Contacts">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Contacts">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state>
           <filtering enabled="true" />
         </state>
       </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Contacts">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1446,9 +1401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6477">
           <caret line="439" column="0" selection-start-line="439" selection-start-column="0" selection-end-line="439" selection-end-column="0" />
-          <folding>
-            <element signature="e#13963#13964#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1456,7 +1408,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
           <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="e#366#367#0" expanded="false" />
+            <element signature="e#391#392#0" expanded="false" />
+            <element signature="e#428#429#0" expanded="false" />
+            <element signature="e#456#457#0" expanded="false" />
+            <element signature="e#487#488#0" expanded="false" />
+            <element signature="e#514#515#0" expanded="false" />
+            <element signature="e#554#555#0" expanded="false" />
+            <element signature="e#586#587#0" expanded="false" />
+            <element signature="e#620#621#0" expanded="false" />
+            <element signature="e#650#651#0" expanded="false" />
+            <element signature="e#696#697#0" expanded="false" />
+            <element signature="e#734#735#0" expanded="false" />
+            <element signature="e#771#772#0" expanded="false" />
+            <element signature="e#804#805#0" expanded="false" />
+            <element signature="e#856#857#0" expanded="false" />
+            <element signature="e#900#901#0" expanded="false" />
+            <element signature="e#932#933#0" expanded="false" />
+            <element signature="e#960#961#0" expanded="false" />
+            <element signature="e#1002#1003#0" expanded="false" />
+            <element signature="e#1036#1037#0" expanded="false" />
+            <element signature="e#1068#1069#0" expanded="false" />
+            <element signature="e#1096#1097#0" expanded="false" />
+            <element signature="e#1138#1139#0" expanded="false" />
+            <element signature="e#1172#1173#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1465,6 +1442,7 @@
         <state relative-caret-position="391">
           <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
           <folding>
+            <element signature="imports" expanded="false" />
             <marker date="1470396609601" expanded="true" signature="260:282" ph="SELECT * FRO... Contacts" />
             <marker date="1470396609601" expanded="true" signature="346:506" ph="UPDATE Conta... " />
             <marker date="1470396609601" expanded="true" signature="353:361" ph="SELECT * FRO... Contacts" />
@@ -1473,18 +1451,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/DbExceptions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/ScPhonesDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/MmservDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/Authenticator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/LoginView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/NavigatorUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
           <folding />
         </state>
       </provider>
@@ -1499,21 +1515,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/ScPhonesDb.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/event/ListenerMethod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="296">
+          <caret line="527" column="0" selection-start-line="527" selection-start-column="0" selection-end-line="527" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/MmservDb.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/server/ServerRpcManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="711">
+          <caret line="159" column="0" selection-start-line="159" selection-start-column="0" selection-end-line="159" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/server/communication/ServerRpcHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1231">
+          <caret line="410" column="0" selection-start-line="410" selection-start-column="0" selection-end-line="410" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="98" column="19" selection-start-line="98" selection-start-column="19" selection-end-line="98" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>

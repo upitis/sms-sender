@@ -1,6 +1,7 @@
 package vks.vpn.views;
 
 import com.vaadin.annotations.DesignRoot;
+import com.vaadin.data.Item;
 import com.vaadin.data.Property;
 import com.vaadin.data.fieldgroup.FieldGroup;
 import com.vaadin.data.util.IndexedContainer;
@@ -115,10 +116,13 @@ public class SmsSenderView extends VerticalLayout {
             contactsGrid.focus();
             String addedPhN = phonesField.getValue().toString();
             for (Object object: event.getSelected()) {
-                String phoneNumber = contactsGrid.getContainerDataSource().getItem(object).getItemProperty("phone").getValue().toString();
-                if (addedPhN != null && ! addedPhN.contains(phoneNumber)) {
+                Item item = contactsGrid.getContainerDataSource().getItem(object);
+                if (item != null) {
+                    String phoneNumber = item.getItemProperty("phone").getValue().toString();
+                    if (addedPhN != null && !addedPhN.contains(phoneNumber)) {
                         phonesField.setValue(phonesField.getValue() + ";" + phoneNumber);
                     }
+                }
                 }
             for (Object object: event.getRemoved()) {
                 String phoneNumber = contactsGrid.getContainerDataSource().getItem(object).getItemProperty("phone").getValue().toString();;
