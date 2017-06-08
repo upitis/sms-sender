@@ -1,11 +1,17 @@
 package vks.vpn.backend;
 
+import org.apache.http.HttpResponse;
+import org.apache.http.NameValuePair;
+import org.apache.http.client.entity.UrlEncodedFormEntity;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.impl.client.CloseableHttpClient;
+import org.apache.http.impl.client.HttpClientBuilder;
+import org.apache.http.message.BasicNameValuePair;
 
-
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
-import java.util.Arrays;
+import java.io.IOException;
+import java.nio.charset.Charset;
+import java.util.ArrayList;
+import java.util.Base64;
 import java.util.List;
 
 
@@ -13,33 +19,44 @@ import java.util.List;
  * Created by upitis on 08.07.2016.
  */
 public class SmsUtils {
-    private static final String SMS_INSERT_SQL_QUERY = "INSERT INTO outbox (number,text,dreport) values(?,?,?)";
+    private static final String MMSERV_API_URL = "http://mmserv2.sc.vpn/api/mailings/add";
+    private static final String MMSERV_USER = "apilogin";
+    private static final String MMSERV_PASSWORD = "apipassword";
 
-    public static void main(String[] args) throws ClassNotFoundException, SQLException {
-        sendSms(Arrays.asList(new String[]{"+79052748107"}),"TestMSG");
-    }
+    public static void sendSms(List<String> phoneNumbers, String smsText) {
 
-    public static void sendSms(List<String> phoneNumbers, String smsText) throws DbExceptions {
-        Connection connection = null;
-        try {
-            connection = MmservDb.getConnection();
-            PreparedStatement statement = connection.prepareStatement(SMS_INSERT_SQL_QUERY);
-            for (String ph: phoneNumbers) {
-                ph = ph.trim();
-                if (ph.matches("\\+7[\\d]{10}")) {
-                    statement.setString(1, ph);
-                    statement.setString(2, smsText);
-                    statement.setInt(3, 1);
-                    statement.executeUpdate();
-                    connection.commit();
-                }
+        CloseableHttpClient httpClient = HttpClientBuilder.create().build();
+        HttpPost httpPost = new HttpPost(MMSERV_API_URL);
+
+
+        String authorizationCode = Base64.getEncoder().encodeToString((MMSERV_USER+":"+MMSERV_PASSWORD).getBytes());
+
+        httpPost.setHeader("Authorization", "Basic " + authorizationCode);
+        httpPost.setHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
+
+        List<NameValuePair> nameValuePairs = new ArrayList<>();
+        for (String phoneNumber : phoneNumbers) {
+            if (phoneNumber.matches("[+][0-9]{11}")) {
+                nameValuePairs.add(new BasicNameValuePair("numbers[]", phoneNumber));
             }
-        } catch (SQLException e) {
-            e.printStackTrace();
-            throw new DbExceptions();
-        } finally {
-            MmservDb.closeConnection(connection);
         }
+        nameValuePairs.add(new BasicNameValuePair("message", smsText));
+
+        try {
+            httpPost.setEntity(new UrlEncodedFormEntity(nameValuePairs, Charset.forName("UTF-8")));
+            HttpResponse httpResponse = httpClient.execute(httpPost);
+            System.out.println(httpResponse.getStatusLine());
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            try {
+                httpClient.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+
+
     }
 
 }

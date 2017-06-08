@@ -9,6 +9,7 @@ import com.vaadin.data.util.filter.SimpleStringFilter;
 import com.vaadin.event.FieldEvents;
 import com.vaadin.event.SelectionEvent;
 import com.vaadin.server.FontAwesome;
+import com.vaadin.shared.ui.grid.HeightMode;
 import com.vaadin.ui.*;
 import com.vaadin.ui.declarative.Design;
 import com.vaadin.ui.themes.ValoTheme;
@@ -112,6 +113,8 @@ public class SmsSenderView extends VerticalLayout {
         contactsGrid.getColumn("title").setHidden(true);
         contactsGrid.setFrozenColumnCount(2);
 
+        ((Grid.MultiSelectionModel) contactsGrid.getSelectionModel()).setSelectionLimit(contactsGrid.getContainerDataSource().size()+10);
+
         contactsGrid.addSelectionListener((SelectionEvent.SelectionListener) event -> {
             contactsGrid.focus();
             String addedPhN = phonesField.getValue().toString();
@@ -162,7 +165,6 @@ public class SmsSenderView extends VerticalLayout {
 
     }
 
-
     private void addFilterToContactsGrid(Grid grid) {
         Grid.HeaderRow filterRow = grid.appendHeaderRow();
 
@@ -189,7 +191,6 @@ public class SmsSenderView extends VerticalLayout {
             cell.setComponent(filterField);
         }
     }
-
 
     private Contact getFooterTextFieldsValues(Grid grid, Grid.FooterRow footerRow) {
         Contact contact = new Contact();

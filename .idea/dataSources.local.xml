@@ -9,8 +9,9 @@
       <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
       <secret-storage>master_key</secret-storage>
       <user-name>root</user-name>
-      <introspection-scope>scphones_db:*</introspection-scope>
-      <resolve-scope>scphones_db:*</resolve-scope>
+      <introspection-schemas>*:scphones_db</introspection-schemas>
+      <resolve-scope>*:scphones_db</resolve-scope>
+      <unqualified-resolve-schemas>*:scphones_db</unqualified-resolve-schemas>
     </data-source>
   </component>
 </project>
