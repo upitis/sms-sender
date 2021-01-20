@@ -1,2 +1,0 @@
-# Module vks.vpn.DefaultWidgetset
-# RPC service class, partial path of RPC policy file
