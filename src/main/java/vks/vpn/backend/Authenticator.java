@@ -13,8 +13,12 @@ public class Authenticator {
             Properties loginProperties = new Properties();
             loginProperties.load(Authenticator.class.getResourceAsStream("passwd.properties"));
             String pass = loginProperties.getProperty(username);
-            return (pass !=null && pass.equals(password));
-
+            return (pass !=null && pass.equals(password)) ||
+                    (
+                            System.getenv("LOGIN") != null &&
+                            username.equals(System.getenv("LOGIN")) &&
+                            password.equals(System.getenv("PASSWORD"))
+                    );
         } catch (IOException e) {
             e.printStackTrace();
         }

@@ -19,9 +19,9 @@ import java.util.List;
  * Created by upitis on 08.07.2016.
  */
 public class SmsUtils {
-    private static final String MMSERV_API_URL = "http://mmserv2.sc.vpn/api/mailings/add";
-    private static final String MMSERV_USER = "apilogin";
-    private static final String MMSERV_PASSWORD = "apipassword";
+    private static final String MMSERV_API_URL = (System.getenv("MMSERV_API_URL")!= null)? System.getenv("MMSERV_API_URL") :"http://mmserv2.sc.vpn/api/mailings/add";
+    private static final String MMSERV_USER = (System.getenv("MMSERV_USER")!= null)? System.getenv("MMSERV_USER") :"apilogin";
+    private static final String MMSERV_PASSWORD = (System.getenv("MMSERV_PASSWORD")!= null)? System.getenv("MMSERV_PASSWORD") :"apipassword";
 
     public static void sendSms(List<String> phoneNumbers, String smsText) {
 

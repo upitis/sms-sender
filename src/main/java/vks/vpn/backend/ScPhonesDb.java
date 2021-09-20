@@ -12,12 +12,15 @@ public class ScPhonesDb {
     public static  Connection getConnection() throws DbExceptions{
 
         String driver = "com.mysql.cj.jdbc.Driver";
-        String url = "jdbc:mysql://mysql:3306/scphones_db?autoReconnect=true&" +
+        String host = (System.getenv("DB_HOST")!= null)? System.getenv("DB_HOST") : "mysql";
+        String port = (System.getenv("DB_PORT")!= null)? System.getenv("DB_PORT") : "3306";
+        String url = "jdbc:mysql://"+host+":"+port+"/scphones_db?autoReconnect=true&" +
                 "useSSL=false&" +
                 "serverTimezone=UTC&" +
                 "characterEncoding=UTF-8";
-        String username = "root";
-        String password = "P@$$w0rd";
+        String username = (System.getenv("DB_USER")!= null)? System.getenv("DB_USER") : "root";
+        String password = (System.getenv("DB_PASSWORD")!= null)? System.getenv("DB_PASSWORD") : "P@$$w0rd";
+
         Connection connection;
         try {
             Class.forName(driver).newInstance();
