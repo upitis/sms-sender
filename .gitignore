@@ -3,7 +3,7 @@ target/*
 !target/*.war
 
 #IntelliJ
-.idea
+.idea/
 *.iml
 *.iws
 
