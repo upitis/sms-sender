@@ -1,0 +1,23 @@
+services:
+        db:
+                image: mysql:8
+                command: --default-authentication-plugin=mysql_native_password
+                container_name: smsdb
+                restart: always
+                hostname: mysql
+                environment:
+                        MYSQL_ROOT_PASSWORD: P@$$$$w0rd
+                volumes:
+                        - ./db_init_data:/docker-entrypoint-initdb.d:ro
+
+        tomcat:
+                image: tomcat:8
+                depends_on:
+                        - db
+                env_file: .env
+                links:
+                        - db:mysql
+                ports:
+                        - "8080:8080"
+                volumes:
+                        - ./target:/usr/local/tomcat/webapps

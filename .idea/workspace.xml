@@ -7,57 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c697f691-e48e-41be-a8e7-5f28cbc96f65" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_6_0_3.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/impl/WindowImplIE_Resources_default_InlineClientBundleGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/.generated/com/google/gwt/user/client/impl/WindowImplIE_Resources_default_InlineClientBundleGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.generated/com/vaadin/client/debug/internal/theme/DebugWindowStyles_default_InlineClientBundleGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/.generated/com/vaadin/client/debug/internal/theme/DebugWindowStyles_default_InlineClientBundleGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF6AB8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9C0B" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9C28" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9C29" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9D0D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9E02" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9E9D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9FAC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFAD9F" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFAE76" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFB03E" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFB15E" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFB19F" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFB26D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFB282" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFB300" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/vks/vpn/backend/ContactUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/vks/vpn/backend/ContactUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/vks/vpn/backend/SmsUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/vks/vpn/backend/SmsUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/sms-1.0.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF6AB8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9C0B" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9C28" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9C29" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9D0D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9E02" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9E9D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAF9FAC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFAD9F" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFAE76" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFB03E" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFB15E" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFB19F" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFB26D" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFB282" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/VAADIN/gwt-unitCache/gwt-unitCache-12e37608065dcfb59e1c21a6af59ee381d8ff1ae-0000015C7DAFB300" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/backend/ContactUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/backend/ContactUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/backend/SmsUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/classes/vks/vpn/backend/SmsUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/sms-1.0/WEB-INF/lib/mysql-connector-java-6.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sms_sender.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sms_sender.iml" afterDir="false" />
     </list>
-    <ignored path="sms_sender.iws" />
-    <ignored path=".idea/workspace.xml" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path=".idea/dataSources.local.xml" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,105 +32,6 @@
   <component name="FavoritesManager">
     <favorites_list name="sms_sender" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="69" selection-start-line="69" selection-end-line="69" />
-              <folding>
-                <element signature="docComment;class#SmsSenderView#0" />
-                <element signature="class#5610:7063" />
-                <element signature="method#preCommit#0;class#5610:7063" />
-                <element signature="method#postCommit#0;class#5610:7063" />
-                <element signature="method#getFooterTextFieldsValues#0;class#SmsSenderView#0" />
-                <element signature="method#findComponentById#0;class#SmsSenderView#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/Authenticator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/SmsUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="100" column="24" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../vks_order/src/main/java/vpn/vks/controller/backend/SingleCabinetEvent.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../vks_order/src/main/java/vpn/vks/controller/Controller.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2074">
-              <caret line="567" column="66" selection-start-line="567" selection-start-column="32" selection-end-line="567" selection-end-column="66" />
-              <folding>
-                <element signature="method#Controller#0;class#Controller#0" />
-                <element signature="method#addParticipant#0;class#Controller#0" />
-                <element signature="method#updateParticipantNotificationInfo#0;class#Controller#0" />
-                <element signature="method#clearParticipantEmailNotificationInfo#0;class#Controller#0" />
-                <element signature="method#clearParticipantPhoneNotificationInfo#0;class#Controller#0" />
-                <element signature="method#removeParticipant#0;class#Controller#0" />
-                <element signature="method#sendEmailNotificationToParticipants#0;class#Controller#0" />
-                <element signature="method#sendSmsNotificationToParticipants#0;class#Controller#0" />
-                <element signature="method#isVksOrderReadyToSend#0;class#Controller#0" />
-                <element signature="method#nextVksOrderTemplate#0;class#Controller#0" />
-                <element signature="method#prevVksOrderTemplate#0;class#Controller#0" />
-                <element signature="method#updateUiBeans#0;class#Controller#0" />
-                <element signature="method#readVksOrderFile#0;class#Controller#0" />
-                <element signature="method#getVksOrderFileNameList#0;class#Controller#0" />
-                <element signature="method#writeVksOrderToTmpFile#0;class#Controller#0" />
-                <element signature="method#createTmpFileFromArgumentsList#0;class#Controller#0" />
-                <element signature="method#createTmpJEventsCalendarFile#0;class#Controller#0" />
-                <element signature="method#getHtmlLayoutFileByName#0;class#Controller#0" />
-                <element signature="method#createTmpFileFromPreviewLayout#0;class#Controller#0" />
-                <element signature="method#readAvailableConferencesFromDB#0;class#Controller#0" />
-                <element signature="method#addParticipant#1;class#Controller#0" />
-                <element signature="method#findComponentById#0;class#Controller#0" />
-                <element signature="method#setAdmins#0;class#Controller#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/NavigatorUI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -187,112 +43,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/views/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vpn/vks/MmservSqlConnection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/views/passwd.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/Authenticator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/views/LoginView.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/passwd.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/Contact.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/mytheme.scss" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.html" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/ScPhonesDbSqlConnection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/DbExceptions.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/MmservSqlConnection.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/ScPhonesDb.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/ContactUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/MmservDb.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/NavigatorUI.java" />
-        <option value="$PROJECT_DIR$/src/main/java/vks/vpn/backend/SmsUtils.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-      </list>
-    </option>
-  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="sms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="sms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1294" />
-    <option name="height" value="1407" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="sms_sender" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sms_sender" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sms_sender" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sms_sender" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sms_sender" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sms_sender" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sms_sender" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sms_sender" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sms_sender" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sms_sender" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vpn" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sms_sender" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sms_sender" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="vpn" type="462c0819:PsiDirectoryNode" />
-              <item name="backend" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectId" id="1enzT1sxlhrwXULKISPNEozEwao" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -312,18 +72,6 @@
       <recent name="C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\resources\vks\vpn" />
       <recent name="C:\Users\upitis\Documents\JavaProjects\sms_sender\src\main\java\vks\vpn\backend" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -390,12 +138,13 @@
       </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -456,6 +205,7 @@
       <method v="2" />
     </configuration>
     <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -517,78 +267,6 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1407" extended-state="0" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2504052" />
-      <window_info id="Structure" order="1" weight="0.26134586" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Web" order="4" side_tool="true" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Nl-Palette" order="7" />
-      <window_info id="Palette&#9;" order="8" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32810047" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49675852" weight="0.40464744" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32932693" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32932693" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5032415" side_tool="true" weight="0.40464744" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32852563" />
-      <window_info anchor="bottom" id="Java Enterprise" order="10" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32852563" />
-      <window_info active="true" anchor="right" id="Maven" visible="true" weight="0.19529983" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Designer" order="3" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Maven Projects" order="6" weight="0.17828201" />
-      <window_info anchor="right" id="Database" order="7" weight="0.107317075" />
-      <window_info anchor="right" id="Bean Validation" order="8" />
-      <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" id="Properties" order="10" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23004694" />
-      <window_info id="Structure" order="1" weight="0.1236089" />
-      <window_info id="Nl-Palette" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Palette&#9;" order="5" />
-      <window_info id="Image Layers" order="6" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info id="Favorites" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32922128" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21978022" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.32967034" />
-      <window_info anchor="bottom" id="Java Enterprise" order="9" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3288854" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32967034" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.17840375" />
-      <window_info anchor="right" id="Designer" order="5" />
-      <window_info anchor="right" id="Database" order="6" weight="0.107317075" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Bean Validation" order="8" />
-      <window_info anchor="right" id="Properties" order="9" />
-      <window_info anchor="right" id="Theme Preview" order="10" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
@@ -597,14 +275,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
@@ -623,6 +294,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -632,13 +304,18 @@
       <collection />
     </option>
   </component>
+  <component name="WindowStateProjectService">
+    <state x="102" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594972162269">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="102" y="354" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1594972162269" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/SmsUtils.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
       </breakpoints>
@@ -647,209 +324,6 @@
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/MyUI.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/vaadin/addons/loginform/0.6.2/loginform-0.6.2.jar!/com/ejt/vaadin/loginform/DefaultVerticalLoginForm.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/ui/declarative/Design.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="4344" column="22" selection-start-line="4344" selection-start-column="18" selection-end-line="4344" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/classes/vks/vpn/backend/passwd.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Лист1" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/58c6bda0-faf5-479a-87a5-a9389cec152a/console.sql" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/vks/vpn/DefaultWidgetset.gwt.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/data/fieldgroup/FieldGroup.java" />
-    <entry file="file://$PROJECT_DIR$/../vks_phonebooks/src/main/java/vpn/vks/view/MyUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="70" column="29" selection-start-line="69" selection-end-line="100" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/VAADIN/themes/mytheme/mytheme.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../vks_order/src/main/java/vpn/vks/views/ordertab/OrderForm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1020" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/ui/Grid.java" />
-    <entry file="dbDummy://dbtable:/5ba36304/58c6bda0-faf5-479a-87a5-a9389cec152a/scphones_db.Contacts" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="7" selection-start-line="26" selection-end-line="26" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/ui/AbstractField.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/Contact.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="68" column="37" selection-start-line="68" selection-start-column="37" selection-end-line="68" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/DbExceptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/event/ListenerMethod.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/server/ServerRpcManager.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/vaadin/vaadin-server/7.6.7/vaadin-server-7.6.7-sources.jar!/com/vaadin/server/communication/ServerRpcHandler.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/ScPhonesDb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/passwd.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/LoginView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../vks_order/src/main/java/vpn/vks/controller/backend/NotificationUtils.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/MmservDb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="36" selection-start-line="21" selection-start-column="36" selection-end-line="21" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/ContactUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/views/SmsSenderView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="69" selection-start-line="69" selection-end-line="69" />
-          <folding>
-            <element signature="docComment;class#SmsSenderView#0" />
-            <element signature="class#5610:7063" />
-            <element signature="method#preCommit#0;class#5610:7063" />
-            <element signature="method#postCommit#0;class#5610:7063" />
-            <element signature="method#getFooterTextFieldsValues#0;class#SmsSenderView#0" />
-            <element signature="method#findComponentById#0;class#SmsSenderView#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/Authenticator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../vks_order/src/main/java/vpn/vks/controller/backend/SingleCabinetEvent.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../vks_order/src/main/java/vpn/vks/controller/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2074">
-          <caret line="567" column="66" selection-start-line="567" selection-start-column="32" selection-end-line="567" selection-end-column="66" />
-          <folding>
-            <element signature="method#Controller#0;class#Controller#0" />
-            <element signature="method#addParticipant#0;class#Controller#0" />
-            <element signature="method#updateParticipantNotificationInfo#0;class#Controller#0" />
-            <element signature="method#clearParticipantEmailNotificationInfo#0;class#Controller#0" />
-            <element signature="method#clearParticipantPhoneNotificationInfo#0;class#Controller#0" />
-            <element signature="method#removeParticipant#0;class#Controller#0" />
-            <element signature="method#sendEmailNotificationToParticipants#0;class#Controller#0" />
-            <element signature="method#sendSmsNotificationToParticipants#0;class#Controller#0" />
-            <element signature="method#isVksOrderReadyToSend#0;class#Controller#0" />
-            <element signature="method#nextVksOrderTemplate#0;class#Controller#0" />
-            <element signature="method#prevVksOrderTemplate#0;class#Controller#0" />
-            <element signature="method#updateUiBeans#0;class#Controller#0" />
-            <element signature="method#readVksOrderFile#0;class#Controller#0" />
-            <element signature="method#getVksOrderFileNameList#0;class#Controller#0" />
-            <element signature="method#writeVksOrderToTmpFile#0;class#Controller#0" />
-            <element signature="method#createTmpFileFromArgumentsList#0;class#Controller#0" />
-            <element signature="method#createTmpJEventsCalendarFile#0;class#Controller#0" />
-            <element signature="method#getHtmlLayoutFileByName#0;class#Controller#0" />
-            <element signature="method#createTmpFileFromPreviewLayout#0;class#Controller#0" />
-            <element signature="method#readAvailableConferencesFromDB#0;class#Controller#0" />
-            <element signature="method#addParticipant#1;class#Controller#0" />
-            <element signature="method#findComponentById#0;class#Controller#0" />
-            <element signature="method#setAdmins#0;class#Controller#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/NavigatorUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="33" column="55" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="100" column="24" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/vks/vpn/backend/SmsUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>

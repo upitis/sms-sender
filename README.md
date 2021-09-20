@@ -1,7 +1,13 @@
 sms
 ==============
 
-Template for a simple Vaadin application that only requires a Servlet 3.0 container to run.
+SMS_SENDER Vaadin application that only requires a Servlet 3.0 container to run.
+
+It uses Mobitech technologies m.MMSender server for sending SMS http://mobitechnologies.com/en/products/busapps/mmsender_brief.php
+
+Dependencies:
+1.	MySQL DB scphones_db (use scphones_db.Contacts.sql for creating);
+2.	Mobitech m.MMSender.
 
 
 Workflow
