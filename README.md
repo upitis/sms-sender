@@ -1,9 +1,9 @@
 # sms
 
 
-SMS_SENDER Vaadin application that only requires a Servlet container to run.
+SMS_SENDER is Vaadin application that requires a Servlet container to run.
 
-It uses Mobitech technologies m.MMSender server equipment for sending SMS http://mobitechnologies.com/en/products/busapps/mmsender_brief.php
+It uses Mobitech technologies m.MMSender server also as eqipment for sending SMS http://mobitechnologies.com/en/products/busapps/mmsender_brief.php
 
 Dependencies:
 
@@ -16,11 +16,20 @@ Dependencies:
 
 All basic parameters are located in **.env** file
 You can run application in **Docker** environment by 
+	
 	> docker-compose up
 
 Configuration of docker composer is in **composer.yml**
 
 Application file in **.war** format distributed with sources for fast start and located in target folder. But you can go through workflow to compile your own.
+
+In **db__init_data** directory there is initial data for database creation. It creates the database with name scphones_db  and the "Conacts" table. To fill the table by phones use any database tools:
+- import **scphones_db.Contacts.sql** file for creating database structure
+- fill by contacts and phone numbers the table
+- export the pre-filled database to the db_init_data directory instead existing scphones_db.Contacts.sql (replace it)
+
+Another way is expose db container port by editing composer.yml and fill cotacts on working application.
+
 
 # Workflow
 
