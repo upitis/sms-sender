@@ -19,6 +19,8 @@ You can run application in **Docker** environment by
 	
 	> docker-compose up
 
+Application will be available at URL-address as http://localhost:8080/sms-1.0/, for example. (sms-1.0 - the name of war-file in target dir)
+
 Configuration of docker composer is in **composer.yml**
 
 Application file in **.war** format distributed with sources for fast start and located in target folder. But you can go through workflow to compile your own.
